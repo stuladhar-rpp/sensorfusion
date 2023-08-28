@@ -1,0 +1,13 @@
+name: sf-env
+dependencies:
+  - python=3
+  - matplotlib
+  - ipympl
+  - ipykernel
+  - numpy
+  - pandas
+  - pykalman
+  - filterpy
+  - pyjanitor
+  - scikit-learn
+
