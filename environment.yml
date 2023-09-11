@@ -10,4 +10,5 @@ dependencies:
   - filterpy
   - pyjanitor
   - scikit-learn
+  - openpyxl 
 
